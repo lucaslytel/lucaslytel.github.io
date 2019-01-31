@@ -1,0 +1,39 @@
+/* Index Style Sheet */
+#header {
+	color:#000000;
+	font-family:futura;
+	font-size:40px;
+	text-align: center;
+}
+.name{
+	text-decoration: none;
+	color:#2e2e2e;
+	font-weight: lighter;
+	vertical-align: middle;
+}
+}
+body {
+	background-color: none;
+}
+.social_footer {
+	list-style: none;
+	background: white;
+	margin-left: -1%;
+	margin-right: -1%;
+}
+.social_button {
+	display: inline-block;
+	position: relative;
+	right: -43%;
+	margin-left: auto;
+	padding: .5%;
+	margin-right:auto;
+}
+body p img {
+	display: block;
+	margin-left: 33%;
+	margin-top: -3%;
+	margin-right: auto;
+	opacity: .9;
+	border-radius: 100%;
+}
