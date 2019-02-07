@@ -2,7 +2,15 @@
 
 h1 a {
     text-decoration: none;
-    color: #000000;
+    color: #ffffff;
+}
+h1 a.bio {
+	font-size: .75em;
+	padding: 2.75em
+}
+h1 a.download {
+	font-size: .75em;
+	padding: 2.75em
 }
 
 h1 {
@@ -10,34 +18,20 @@ h1 {
 	font-size: 3em;
 	font-variant: all-petite-caps;
 }
-p {
-	text-align: center;
-	text-decoration: none;
-	color: #000000;
-}
 
 h2, h3, h4 {
-	border-bottom: solid #000000;
-	font-size: 1.5em;
+	background-color: #417dc1;
+	font-size: 2.25em;
+	font-variant: all-petite-caps;
+	max-width: 100%;
+	color: #ffffff;
+	border-top: solid .1em #000000;
+	border-bottom:  solid .1em #000000;
 }
 
-#ActBlue .date{
-	margin-left:40.1em;
-}
-
-#ElizabethWarren .date{
-	margin-left:26em;
-}
-
-#CFC .date{
-	margin-left:22.5em;
-}
 li {
-	padding: .75em;
-}
-
-#Paix .date {
-	margin-left: 25.7em;
+	padding: .35em;
+	max-width: 75%;
 }
 
 .title {
@@ -45,6 +39,21 @@ li {
 }
 
 .title_line {
-	border-bottom: solid .04em #000000;
+	border-bottom: solid .04em #ffffff;
 	padding: .25em;
+	max-width: 75%;
+}
+.date {
+	float:right;
+}
+.school{
+	max-width:75%;
+	border-bottom: solid .04em #ffffff;
+}
+body {
+	background-color:#79440C;
+	color:#ffffff;
+}
+a {
+	color:#749bbc;
 }
