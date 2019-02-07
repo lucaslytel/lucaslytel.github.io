@@ -1,0 +1,10 @@
+/* Bio Style Sheet */
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-variant: all-petite-caps;
+}
+h1 a {
+	text-decoration: none;
+	color: #000000;
+}
