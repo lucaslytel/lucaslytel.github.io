@@ -1,0 +1,50 @@
+/* Resume Style Sheet */
+
+h1 a {
+    text-decoration: none;
+    color: #000000;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3em;
+	font-variant: all-petite-caps;
+}
+p {
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+}
+
+h2, h3, h4 {
+	border-bottom: solid #000000;
+	font-size: 1.5em;
+}
+
+#ActBlue .date{
+	margin-left:40.1em;
+}
+
+#ElizabethWarren .date{
+	margin-left:26em;
+}
+
+#CFC .date{
+	margin-left:22.5em;
+}
+li {
+	padding: .5em;
+}
+
+#Paix .date {
+	margin-left: 25.7em;
+}
+
+.title {
+	font-style:italic;
+}
+
+.title_line {
+	border-bottom: solid .04em #000000;
+	padding: .25em;
+}
